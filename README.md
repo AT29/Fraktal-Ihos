@@ -51,3 +51,6 @@ This software is under the MIT license. See LICENSE.md for more information.
 - 3D fractals
 - 64 or 128 bit floating point precision in shaders
 - machine learning algorithms to create nice visualisations
+
+## Support
+If you notice any bug or you have an idea for this project, feel free to contact me: antonitre29@gmail.com
