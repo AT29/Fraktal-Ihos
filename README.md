@@ -42,8 +42,8 @@ A music visualiser made in C++ and GLSL that displays fractals based on the Mand
 ## Future plans for this project:
 - analyzing the audio device/microphone sound in real time
 - FFT algorithm
-- Animated GUI
-- Other types of fractals
+- animated GUI
+- other types of fractals
 - 3D fractals
 - 64 or 128 bit floating point precision in shaders
 - machine learning algorithms to create nice visualisations
