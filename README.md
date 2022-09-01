@@ -38,3 +38,11 @@ A music visualiser made in C++ and GLSL that displays fractals based on the Mand
 
 ### Sunshine Tiles theme:
 ![Sunshine Tiles](https://user-images.githubusercontent.com/60294094/188024246-ce6b3610-ad00-4e1a-86f5-d5b4efdd6421.JPG)
+
+## Future plans for this project:
+- analyzing the sound in real time
+- FFT algorithm
+- Animated GUI
+- Other types of fractals
+- 64 or 128 bit floating point precision in shaders
+- machine learning algorithms to create nice visualisations
