@@ -24,3 +24,6 @@ A music visualiser made in C++ and GLSL that displays fractals based on the Mand
 8. F11 key to switch fullscreen/window mode
 
 ## Images created by this software.
+![Blue Palm Trees](https://user-images.githubusercontent.com/60294094/188024239-cf0159bb-6049-4e7f-aef5-e205fa7cf62f.JPG)
+![Cosmic Blobs](https://user-images.githubusercontent.com/60294094/188024242-dab9624f-4f2e-4561-a0a4-b68d07520b96.JPG)
+![Sunshine Tiles](https://user-images.githubusercontent.com/60294094/188024246-ce6b3610-ad00-4e1a-86f5-d5b4efdd6421.JPG)
