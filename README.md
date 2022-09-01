@@ -23,6 +23,11 @@ A music visualiser made in C++ and GLSL that displays fractals based on the Mand
 7. Press and hold escape to exit
 8. F11 key to switch fullscreen/window mode
 
+## Information for compiling the source code:
+
+C++ standard:       std:c++14
+external libraries: SFML 2.5.1.
+
 ## Images created by this software.
 
 ### Blue Palm Trees theme:
