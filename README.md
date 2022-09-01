@@ -44,5 +44,6 @@ A music visualiser made in C++ and GLSL that displays fractals based on the Mand
 - FFT algorithm
 - Animated GUI
 - Other types of fractals
+- 3D fractals
 - 64 or 128 bit floating point precision in shaders
 - machine learning algorithms to create nice visualisations
