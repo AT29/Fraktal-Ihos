@@ -25,8 +25,8 @@ A music visualiser made in C++ and GLSL that displays fractals based on the Mand
 
 ## Information for compiling the source code:
 
-C++ standard:       std:c++14
-external libraries: SFML 2.5.1.
+- C++ standard:       std:c++14
+- external libraries: SFML 2.5.1.
 
 ## Images created by this software.
 
