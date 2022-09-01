@@ -28,6 +28,10 @@ A music visualiser made in C++ and GLSL that displays fractals based on the Mand
 - C++ standard:       Visual C++ 14 (2015) / std:c++14
 - external libraries: SFML 2.5.1.
 
+## License
+
+This software is under the MIT license. See LICENSE.md for more information.
+
 ## Images created by this software.
 
 ### Blue Palm Trees theme:
