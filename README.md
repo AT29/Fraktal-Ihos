@@ -1,4 +1,4 @@
-# Fractal-Ihos
+# Fraktal-Ihos
 
 ## What is this?
 
