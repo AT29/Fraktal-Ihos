@@ -44,6 +44,7 @@ This software is under the MIT license. See LICENSE.md for more information.
 ![Sunshine Tiles](https://user-images.githubusercontent.com/60294094/188024246-ce6b3610-ad00-4e1a-86f5-d5b4efdd6421.JPG)
 
 ## Future plans for this project:
+- icon/logo
 - analyzing the audio device/microphone sound in real time
 - FFT algorithm
 - animated GUI
